@@ -1,3 +1,3 @@
 # Geospatial-Project
 
-![GEO](/images/localitation.png)
+![GEO](/images/localitation.jpg)
