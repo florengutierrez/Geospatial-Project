@@ -19,17 +19,17 @@ El objetivo de este proyecto es encontrar la ubicación perfecta para una de nue
 
 En este radio encontraremos:
 
-3 restaurantes veganos a menos de 1km.
-Un starbucks a menos de 500m.
-1 colegio a menos de 500m.
-Además de rodeados de múltiples oficinas de empresas exitosas.
+- 3 restaurantes veganos a menos de 1km.
+- Un starbucks a menos de 500m.
+- Un colegio a menos de 500m.
+- Además de rodeados de múltiples oficinas de empresas exitosas.
 
-El aeropuerto está situado a 17km de nuestro punto de partida.
-Y nuestro estadio de baloncesto mas cercano a tan solo 3km.
+- El aeropuerto está situado a 17km de nuestro punto de partida.
+- Y nuestro estadio de baloncesto mas cercano a tan solo 3km.
 
+------------------------------------------------------------------------------------------------------
 
-
-Con ayuda de: 
+📚 Con ayuda de: 
 
 * MongoDB
 * Foursquare API
