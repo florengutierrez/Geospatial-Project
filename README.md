@@ -15,7 +15,7 @@ El objetivo de este proyecto es encontrar la ubicación perfecta para una de nue
 
 
 
-![map](/images/GEO.jpg)
+![map](/images/GEO.png)
 
 En este radio encontraremos:
 
